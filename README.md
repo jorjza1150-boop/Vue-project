@@ -1,4 +1,4 @@
-# Chokanan Noikoon — Home
+# Chatree Puangpachung — Home
 
 เว็บเบื้องต้นด้วย Vue.js 3, Bootstrap 5 และ Vite
 
